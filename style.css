@@ -1,0 +1,35 @@
+.sfs {
+  background-color: burlywood !important;
+  color: black !important;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.vyshu {
+  background-color: gray;
+}
+
+.vyshu1 {
+  background-color: burlywood;
+}
+
+.footer {
+  background-color: brown;
+
+}
+
+.uthappizza {
+  color: black;
+}
+
+.card {
+  margin: 0 auto;
+  /* Added */
+  float: none;
+  /* Added */
+  margin-bottom: 10px;
+  /* Added */
+}
