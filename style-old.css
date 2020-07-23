@@ -1,0 +1,88 @@
+.sfs {
+  background-color: blanchedalmond !important;
+  color: black !important;
+}
+
+.navbar-dark {
+  background-color: gray;
+}
+
+.tab-content {
+  border-left: 1px solid beige;
+  border-right: 1px solid beige;
+  border-bottom: 1px solid beige;
+  padding: 10px;
+}
+
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+
+
+#slides {
+  color: blueviolet;
+  background-color: blueviolet !important;
+}
+
+.carousel {
+  color: blueviolet;
+  background-color: blueviolet !important;
+}
+
+.carousel .item {
+  color: blueviolet;
+  background-color: blueviolet;
+}
+
+
+
+.vyshu {
+  background-color: gray;
+}
+
+.vyshu1 {
+  background-color: burlywood;
+}
+
+.footer {
+  background-color: brown;
+
+}
+
+.uthappizza {
+  color: black;
+}
+.modal-header {
+  padding: 9px 15px;
+  border-bottom: 1px solid #eee;
+  background-color:blue;
+}
+.modal-body {
+  background-color:b;
+}
+
+.modal-content {
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  background-color: lightblue ;
+}
+
+.modal-footer {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+}
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+
+}
